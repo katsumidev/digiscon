@@ -1,19 +1,20 @@
-# Digispark-br-abnt2-layout
 # DIGISCON
 
-## About
+## Sobre
 
-Script conversor para tornar possivel a utilização do digispark em layout Portugues Brasileiro ( abnt2 ) através da conversão de scripts .duck em arquivos ino já em pt-BR, ao importado para o Arduino IDE o script só precisara ser carregado ao digispark, ele já estará com o layout pt-BR funcionando. 
+<img src="https://cdn-reichelt.de/bilder/web/xxl_ws/A300/ARD-DIGISPARK_01.png" align="left" height="100px"/> Script conversor para tornar possivel a utilização do digispark em layout Portugues Brasileiro ( abnt2 ) através da conversão de scripts .duck em arquivos ino já em pt-BR, ao importado para o Arduino IDE o script só precisara ser carregado ao digispark, ele já estará com o layout pt-BR funcionando. 
+
+<br />
 
 ---
-
 ## Screenshots
+
 
 ![Screenshot](./Screenshot.png)
 
 ---
 
-## 💾 Installing
+## 💾 Instalar
 
 Você pode rodar o programa mesmo sem instalar, basta usar o script normalmente dentro da pasta que contém os arquivos necessários.
 
@@ -52,7 +53,7 @@ Abra o cmd em modo administrador e execute o script "digiscon.bat", instruções
 
 <hr>
 
-## 💻 Technologies
+## 💻 Tecnologias
 
 - [Python](https://www.python.org/)
 - [Java](https://docs.oracle.com/javase/7/docs/technotes/guides/language/)
@@ -61,19 +62,19 @@ Abra o cmd em modo administrador e execute o script "digiscon.bat", instruções
 
 <hr>
 
-## 📖 Author
+## 📖 Autor
 <table>
   <tr>
     <td  align=center>
-        <img src="https://avatars0.githubusercontent.com/u/64869691?s=460&u=55a251a576b8f0a784a65c555a6da34eefeb9f1a&v=4" width="100px" alt="Vitor Conroy">
-        <a href="https://github.com/str4vinsk">
+        <img src="https://avatars.githubusercontent.com/u/90803853?v=4" width="100px" alt="Moon Coded">
+        <a href="https://github.com/mooncoded">
           <br>
-            Vitor Conroy
+            Moon Coded
           </br>
         </a>
         <sub>
-          <a href="https://www.instagram.com/vitorconroy/" alt="instagram">
-            ☕️ @vitorconroy
+          <a href="https://www.linkedin.com/in/mooncoded/" alt="instagram">
+            ☕️ @mooncoded
           </a>
         </sub>
     </td>
